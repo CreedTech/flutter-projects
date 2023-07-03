@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565916595409",
+    "project_id": "tryfirebase-2babe",
+    "storage_bucket": "tryfirebase-2babe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565916595409:android:66d26fd3aa4d15446881f0",
+        "android_client_info": {
+          "package_name": "com.lazy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565916595409-25lhfkl6up4usdf2723hd7phbt0rrdpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYdX5d8VTG-9e8Z33I6UMLwZn8LXYosg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565916595409-25lhfkl6up4usdf2723hd7phbt0rrdpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
